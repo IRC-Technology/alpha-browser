@@ -245,7 +245,7 @@ belirtebilirsiniz.
 Bu depo Alpha Browser’ın resmî sürüm ve kurulum dosyalarını barındırır.
 
 ```text
-github.com/IRC-Technology/alpha-browser-releases
+github.com/IRC-Technology/alpha-browser
 ```
 
 ---
